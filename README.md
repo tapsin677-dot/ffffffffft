@@ -50,7 +50,7 @@ Founder & CEO of **[Weekmotion](https://weekmotion.com)** — a growing creator-
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love turning ideas into real digital products**
 
----
+ 
 
 ## My favorite tools and technologies ⚙️
 
@@ -175,7 +175,7 @@ Founder & CEO of **[Weekmotion](https://weekmotion.com)** — a growing creator-
   </tr>
 </table>
 
----
+ 
 
   <h2>📘 My Top Open Source Projects</h2>
 
@@ -190,7 +190,7 @@ Founder & CEO of **[Weekmotion](https://weekmotion.com)** — a growing creator-
     <a href="https://github.com/shajibsikder/weekmotion.com"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
   </p>
 
----
+ 
 
 ### ✨ About Me
 
@@ -216,7 +216,7 @@ My primary focus is on developing:
 
 I strongly believe technology should create opportunities, simplify workflows, and empower creators around the world.
 
----
+ 
 
 #### My Development Journey
 
@@ -246,7 +246,7 @@ Some areas I actively focus on:
 
 I create products not only to improve my skills, but also to solve meaningful problems and build useful digital ecosystems for real users.
 
----
+ 
 
 ### 🎯 Personal Development Goals
 
@@ -258,7 +258,7 @@ I create products not only to improve my skills, but also to solve meaningful pr
 | ⚙️ Optimize applications for **performance & security** | 🟢 *Ongoing* |
 | 📦 Build more **production-ready SaaS systems** | 🟡 *In Development* |
 
----
+ 
 
 ### 📚 Learning Journey
 
@@ -269,7 +269,7 @@ I create products not only to improve my skills, but also to solve meaningful pr
 | **System Design Concepts** | █████░░░░░ 50% |
 | **Docker & DevOps Basics** | ██████░░░░ 60% |
 
----
+ 
 
 ### 💼 Highlight Projects
 
@@ -292,7 +292,7 @@ I create products not only to improve my skills, but also to solve meaningful pr
   </tr>
 </table>
 
----
+ 
 
 ## 🏆 Client Projects Delivered
 
@@ -324,7 +324,7 @@ I create products not only to improve my skills, but also to solve meaningful pr
 >
 > 🔗 See full portfolio: **[weekmotion.com/service](https://weekmotion.com/service)**
 
----
+ 
 
 ### 📹 Latest Content & Videos
 
@@ -337,7 +337,7 @@ I create products not only to improve my skills, but also to solve meaningful pr
 
 > 🔔 Subscribe to **[Jagatbarta](https://youtube.com/@jagatbarta)** for videos related to technology, web development, and digital platforms.
 
----
+ 
 
 ### 💻 GitHub Profile Stats
 
@@ -359,7 +359,7 @@ I create products not only to improve my skills, but also to solve meaningful pr
 
 
 
----
+ 
 
 <p align="center">
   <i>"Technology should create opportunities, simplify workflows, and empower creators around the world."</i>
