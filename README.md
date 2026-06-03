@@ -1,7 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:050A14,50:0B1220,100:111827&text=MD%20SHAJIB%20SIKDER&fontSize=40&fontColor=E5E7EB&fontAlignY=40&desc=Building%20Modern%20Web%20Apps%20%7C%20Clean%20Code%20%7C%20Performance%20Focused&descSize=14&descColor=9CA3AF&descAlignY=65&animation=twinkling" />
 
 <br/>
-
 > **Building scalable digital platforms with innovation, creativity, and clean architecture**
 >
 > <code>Full Stack Web Developer (PHP/Laravel/JavaScript) · Founder & CEO @ Weekmotion</code>
